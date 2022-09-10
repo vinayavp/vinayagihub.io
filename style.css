@@ -19,10 +19,11 @@
 }
 
 .footerstyling {
-    width: 100px;
-    min-height: 90px;
+    /* width: 100px;
+    min-height: 90px; */
     background-color: #272932;
     border-radius: 20px;
+    margin-top: 50px;
 }
 
 .footerstyling>h1 {
